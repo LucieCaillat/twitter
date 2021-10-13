@@ -1,0 +1,3 @@
+new tweet
+lib/twitter_test.rb:46:in `master_twitter': undefined method `filter' for #<Twitter::REST::Client:0x000055933da67888> (NoMethodError)
+	from lib/twitter_test.rb:53:in `<main>'
